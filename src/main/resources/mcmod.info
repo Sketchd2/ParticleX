@@ -1,0 +1,21 @@
+{
+{
+  "modid": "ParticleX",
+  "name": "ParticleX Physics",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": {
+    "sketchd2"
+  },
+  "credits": "",
+  "logofile": "",
+  "screenshots": {
+  },
+  "parent": "",
+  "dependencies": {
+  }
+}
+}
